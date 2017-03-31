@@ -2,7 +2,7 @@
 Solves for the unknown variable of an equation or equation set irrespective of its location with respect to the "=" sign
 
 # Setup
-EQAN was initially written in Microsoft Excel’s VBA and later a standalone application was written in VB.Net using visual basic. Both the excel version and .net version are available for the user.  
+EQAN was initially written in Microsoft Excel’s VBA and later a standalone application was written in VB.Net using Visual Studio. Both the excel version and .net version are available for the user.  
 
 # Usage
 Consider an example : a=b+sin(c/d) where value of variable "c"  is unknwon.
