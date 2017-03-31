@@ -31,10 +31,10 @@ Click on the link : [Algorithm.pdf](https://github.com/vaniceast/EQAN/blob/maste
 
 # Limitations
 EQAN is far from perfect. Most of the imperfections are the results of time constraints and the fact this is my first time programming using visual basic. The excel version has some advantages over the standalone application and vice versa. Some limitations include:
-* The LHS of the “=” sign should have a single variable. So an equation like "a/b=c/d" will result in an error.
+* The LHS of the “=” sign should be a single variable. So an equation like "a/b=c/d" will result in an error.
 * Trigonometric functions are evaluated in degrees only. Results in radians are not possible.
 * The algorithm for selecting and arraigning equations results in an error for certain combinations.
-* The UI should have a better design. Shortcut keys are yet to be added.
+* The UI should have had a better design. Shortcut keys are yet to be added.
 
 # Contact
 Feel free to contact me with queries, remarks, suggestions, etc. (vaniceast@outlook.com)
