@@ -1,9 +1,6 @@
 # EQAN-The Equation Analyser
 Solves for the unknown variable of an equation or equation set irrespective of its location with respect to the "=" sign
 
-# Screenshot
-![solarized dualmode](https://github.com/vaniceast/EQAN/blob/master/screen.png?)
-
 # Setup
 EQAN was initially written in Microsoft Excel’s VBA and later a standalone application was written in VB.Net using visual basic. Both the excel version and .net version are available for the user.  
 
